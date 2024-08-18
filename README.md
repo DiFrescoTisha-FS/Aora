@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/4.png" alt="Aora" />
+  <img src="images/5.png" alt="Aora" />
 
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
@@ -8,7 +8,7 @@
   
   <h4>Video Sharing App</h4>
   
-  <p>Build this project step by step with JavaScript Mastery's <a href="https://www.youtube.com/watch?v=ZBCUegTZF7M">Full Stack React Native App</a> tutorial on YouTube.</p>
+  <p>Build this project step by step with <a href="https://www.youtube.com/watch?v=ZBCUegTZF7M">JavaScript Mastery's Full Stack React Native App</a> tutorial on YouTube.</p>
 </div>
 
 ## Table of Contents
