@@ -1,11 +1,18 @@
-![Aora](images/4.png)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
-![Nativewind](https://img.shields.io/badge/nativewind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+<div align="center">
+  <img src="images/4.png" alt="Aora" />
+
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
+  ![Nativewind](https://img.shields.io/badge/nativewind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+  
+  <h4>Video Sharing App</h4>
+  
+  <p>Build this project step by step with JavaScript Mastery's <a href="https://www.youtube.com/watch?v=ZBCUegTZF7M">Full Stack React Native App</a> tutorial on YouTube.</p>
+</div>
 
 ## Table of Contents
----
+
 1. [Introduction](#introduction)
 2. [Tech Stack](#tech-stack)
 3. [Features](#features)
@@ -13,15 +20,15 @@
 5. [Links](#links)
 
 ## Tutorial
-___
+
 This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, [Javascript Mastery](https://www.youtube.com/@javascriptmastery/videos).
  
 ## Introduction
----
+
 Built with React Native for seamless user experiences, Animatable for captivating animations, and integrated with the dependable backend systems of Appwrite, this app showcases impressive design and functionality, enabling seamless sharing of AI videos within the community.
 
 ## Tech Stack
----
+
 * React Native
 * Expo
 * Nativewind
@@ -29,7 +36,7 @@ Built with React Native for seamless user experiences, Animatable for captivatin
 * Appwrite
 
 ## Features
----
+
 * Onboarding Screen: Engaging graphics and clear instructions welcome users to the app.
 
 * Robust Authentication & Authorization System: Secure email login safeguards user accounts.
@@ -51,7 +58,7 @@ Built with React Native for seamless user experiences, Animatable for captivatin
 * Animations: Dynamic animations using the Animatable library to enhance user interaction and engagement throughout the app's UI.
 
 ## Quick Start
----
+
 Follow these steps to set up the project locally on your machine.
 
 ### Prerequisites
@@ -82,5 +89,4 @@ npm start
 Download the [Expo Go](https://expo.dev/go) app onto your device, then use it to scan the QR code from Terminal and run.
 
 ## Links
----
 Assets and constants used in the project can be found [here](https://drive.google.com/drive/folders/1pckq7VAoqZlmsEfYaSsDltmQSESKm8h7).
